@@ -41,11 +41,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ### 8. Load Data into MySQL and PostgreSQL
    - **Set Up Connections**: Connect to MySQL and PostgreSQL using `sqlalchemy` and load the cleaned data into each database.
-   - **Table Creation**: Set up tables in both MySQL and PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
-   - **Verification**: Run initial SQL queries to confirm that the data has been loaded accurately.
-
-### Python Coad:
-- <a href="https://github.com/SowmallyaM/Walmart-Analysis-Python-SQL./blob/main/Project%20walmart(python%2BSQL).ipynb">Walmart Python coad</a>
+   - **Table Creation**: Set up tables in MySQL using Python SQLAlchemy to automate table creation and data insertion.
 
 ### 9. SQL Analysis: Complex Queries and Business Problem Solving
    - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
@@ -54,5 +50,15 @@ This project is an end-to-end data analysis solution designed to extract critica
      - Sales performance by time, city, and payment method.
      - Analyzing peak sales periods and customer buying patterns.
      - Profit margin analysis by branch and category.
-  
+
+
+## Python Coad:
+<a href="https://github.com/SowmallyaM/Walmart-Analysis-Python-SQL./blob/main/Project%20walmart(python%2BSQL).ipynb">Walmart Python coad</a>
+## Business Problems:
+<a href="https://github.com/SowmallyaM/Walmart-Analysis-Python-SQL./blob/main/Business%20Problems.pdf">Walmart Business Problems</a>
+## SQL Queries:
+<a href="https://github.com/SowmallyaM/Walmart-Analysis-Python-SQL./blob/main/project%20walmart.sql">Walmart SQL Analysis</a>
+## Business Insights:
+<a href="https://github.com/SowmallyaM/Walmart-Analysis-Python-SQL./blob/main/Walmart%20Analysis%20Insights.pdf">Walmart Business Insights</a>
+
 
